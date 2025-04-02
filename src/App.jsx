@@ -11,7 +11,6 @@ function App() {
     <Routes>
       <Route path="/" element={<FirstScreen />} />
       <Route path="/faq" element={<Faq />} />
-      <Route path="/editprofile" element={<Editprofile/>} />
       <Route path="/main" element={<Main/>} />
       <Route path="/timetable" element={<TimetableDataSet />} />
       <Route path="/timetablecheck" element={<TimetableCheck />} />

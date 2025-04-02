@@ -27,7 +27,7 @@ select {
 .header-container {
   max-width: 1200px;
   height: 100%;
-  padding: 0 2rem;
+  padding: 0;
   display: flex;
   justify-content: space-between;
   padding-bottom: 1rem;
@@ -38,7 +38,6 @@ select {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  padding-bottom: 0.5rem;
   border: 1px solid transparent;
 }
 

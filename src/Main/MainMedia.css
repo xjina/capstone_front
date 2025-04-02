@@ -10,11 +10,11 @@
   .header {
     display: flex;
     height: 70px;
-    padding: 0 1rem;
+    padding: 0;
   }
 
   .header-container {
-    padding: 0 1rem;
+    padding: 0;
     justify-content: space-between;
     align-items: center;
     display: flex;
@@ -58,10 +58,10 @@
     display: block;
     background: transparent;
     padding: 0;
-    font-size: 2rem;
+    font-size: 1.5rem;
     cursor: pointer;
     color: #004098;
-    margin-left: 1rem;
+    margin-left: 5rem;
     border: 1px solid transparent;
   }
 
